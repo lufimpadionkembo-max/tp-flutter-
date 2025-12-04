@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "427454952936",
+    "project_id": "mpakodem",
+    "storage_bucket": "mpakodem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427454952936:android:9170c35f4d224ef38ba05d",
+        "android_client_info": {
+          "package_name": "com.example.course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427454952936-ucm2kd32o0qd5vvrqsc0nmn88meumk1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdzIUtI9JZNusNyn7kwsJ-gmw1d-GkyYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427454952936-ucm2kd32o0qd5vvrqsc0nmn88meumk1d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "427454952936-dd8dctq4gqom6s4k1itra68jbuas90vb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.course"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
